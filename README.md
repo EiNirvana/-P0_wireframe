@@ -24,4 +24,17 @@ La pantalla que mostra tota informació sobre l'aplicació, la marca/empresa, el
 ### Pantalla Perfil
 Una única pantalla que mostra tota la configuració de l'app preferent a l'usuari. Mentre que els settings poden ser editats sense necessitat de ap canvi en la pantalla, per a editar informació més delicada, com ara el nom d'usuari, la contrasenya, els detalls de la informació bancaria, es desplega una aaltra pantalla, la qual no es pot deixar a en segon pla. Per a la contrasenya i les dades bancaries en especific, s'obre una tercera pantalla (les dues iguals en el disseny).
 
-##Wireframe de la web. 
+## Wireframe de la web. 
+La funcionalitat de la pàgina web es molt semblant a l'app, i també la seva distribució. Coses com el log in, l'edició de contrasenyes i càrrecs bancaris tenen el mteix disseny que l'app, amb l'única diferencia sent el seu tamany degut a la pantalla. Altres pantalles, com ara la de cerca o filtres, no existeixen, ja que es poden ajuntar a altres pantalles més centrals gràcies al tamany de la pantalla. 
+
+### Pantalla home
+Pantalla que es mostra quan s'accedeix a la pàgina web. Uneix les pantalles Home i de cerca. La única gran diferència que hi ha es que quan es clica en el icona de cerca, una barra s'expanedeix per la part superior de la pantalla, mostrant possibles resultats i col·leccions que l'usuari pot estar buscant, ofuscant el que es mostrava abans. 
+
+### Pantalla de productes
+Pantalla que mostra els resultats de les busques o sel·leccions en la pantalla Home. La seva funcionalitat i es estil es en la gran majoria igual que en la seva versió de mòbil, amb la diferència que no importi quin tipus de setting l'usuari esculli per a mostrar els resultats, el preu i nom sempre es veuran. En quant a un sol producte, la seva funcionaliat i estil son exactament el mateix que a l'altra.
+
+### Pantalla About Us
+L'única gran diferència entre la versió de plataforma web i l'app es que la subpantalla que mostraba els fundadors/alts executius ara és part de la pantalla principal. L'única acció nova es que clicar sobre les imatges dels patrocinadors durà a l'usuari a la web 'About us' d'aquests.
+
+### Pantalla de settings. 
+Tampoc hi ha diferències entre aquesta versió de settings i l'app fora del tamany de la pantalla. El canvi de la contrasenya també té el mateix funcionament, i el mateix amb els diferents settings. 
