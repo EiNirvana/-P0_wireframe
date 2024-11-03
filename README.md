@@ -52,5 +52,6 @@ L'única gran diferència entre la versió de plataforma web i l'app es que la s
 
 ### Pantalla de settings. 
 Tampoc hi ha diferències entre aquesta versió de settings i l'app fora del tamany de la pantalla. El canvi de la contrasenya també té el mateix funcionament, i el mateix amb els diferents settings. 
+
 ![imatge](https://github.com/user-attachments/assets/7fb33bd7-d34d-47f9-ba93-0753c8b49b18)
 
